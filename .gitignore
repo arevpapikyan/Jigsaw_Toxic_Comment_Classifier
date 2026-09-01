@@ -1,0 +1,10 @@
+data/*.csv
+artifacts/*.pt
+artifacts/*.json
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
